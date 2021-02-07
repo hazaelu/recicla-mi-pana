@@ -91,7 +91,7 @@
 
 	header
 	{
-		margin-bottom: 1em;
+		
 	}
 	
 		header h2
@@ -291,7 +291,7 @@
 	#header
 	{
 		position: relative;
-		background: #2a2f27 url(../images/banner.jpg) no-repeat;
+		background: white url(../images/modificado/banner01.png) no-repeat;
 		background-size: cover;
 	}
 
@@ -306,6 +306,7 @@
 		#nav ul
 		{
 			margin: 0;
+			
 		}
 	
 /*********************************************************************************/

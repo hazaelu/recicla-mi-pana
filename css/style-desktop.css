@@ -30,11 +30,16 @@
 	
 		.homepage #header
 		{
-			padding: 15em 0em;
+			padding: 11em 0em;
+			top: 5px;
+    padding-top: 450px;
+    padding-bottom: 4px;
 		}
 
 		#header .container
 		{
+			
+			
 		}
 
 /*********************************************************************************/
@@ -79,11 +84,14 @@
 
 	#nav
 	{
+		
+	
 	}
 
 		#nav > ul > li
 		{
 			display: inline-block;
+						
 		}
 		
 			#nav > ul > li:last-child
@@ -95,20 +103,20 @@
 			#nav > ul > li > span
 			{
 				display: block;
-				padding: 1em 1.5em;
+				padding: 2em 1.5em;
 				letter-spacing: 1px;
 				text-decoration: none;
 				text-transform: uppercase;
-				font-weight: 200;
-				font-size: 1em;
+				font-weight: 200px;
+				font-size: 18px;
 				outline: 0;
-				color: rgba(255,255,255,.7);
+				color: darkgreen;
 			}
 
 
 			#nav > ul > li > a:hover
 			{
-				color: #FFF;
+				color: black;
 			}
 
 			#nav li.active a
@@ -116,8 +124,8 @@
 				background: none;
 				border-radius: 40px;
 				border: 2px solid;
-				border-color: rgba(255,255,255,.8);
-				color: #FFF;
+				border-color: lawngreen;
+				color: darkgreen;
 			}
 
 			#nav > ul > li > ul
